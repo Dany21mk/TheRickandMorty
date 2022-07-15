@@ -1,0 +1,2 @@
+rootProject.name = "The Rick and Morty"
+include ':app'
